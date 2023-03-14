@@ -1,0 +1,4 @@
+---
+title: "Nuevo post"
+---
+Prueba
